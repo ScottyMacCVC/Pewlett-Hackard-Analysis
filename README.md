@@ -27,7 +27,7 @@
 ### ![mentorship_eligibilty1.csv](https://github.com/ScottyMacCVC/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/mentorship_eligibilty1.PNG)
 ---
 
-### The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
+### The summary addressing two questions and two additional queries or tables with potenial insight.
 - **1** A Table/Query that would provide more insight would be Mentorship eligibility counted, by title. We will want to extend the analysis to include a snapshot of only the younger team members and then counted by positions. We can see in the image below, only 1,550 are eligible for mentorship. The number is far exceeded by totals shown in the summary Retiring Titles table. 
 ### ![mentorship_eligibilty2.csv](https://github.com/ScottyMacCVC/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis/mentorship_eligibilty2.PNG)
 
